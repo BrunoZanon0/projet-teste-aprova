@@ -8,4 +8,11 @@
 
 <h5> Link do POSTMAN: <a href='https://drive.google.com/file/d/1uzZ6_40O69H-lSsXhqGnmAvwGSOo2NK5/view?usp=sharing'>Clique aqui para baixar</a> </h5>
 
+
+<p>Instruções:</p>
+
+<h5>PHP ARTISAN SERVE -> Irá rodar a aplicação</h5>
+<h5>RODE A MIGRATE </h5>
+<h5>CONFIGURE O STMP DO EMAIL POIS NAO PUDE POR O MEU SE NAO MINHA SNEHA IRA FICAR SALVA RS</h5>
+
 <h5> Espero ter cumprido os requisitos minimos, perdão por estár entregando em cima da hora</h5>
