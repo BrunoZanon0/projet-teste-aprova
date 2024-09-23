@@ -6,6 +6,6 @@
 
 <h5>Foi feito testes em cima do backend que foi feito de ultima hora, pois havia entendido errado.</h5>
 
-<h5> Link do POSTMAN: <a href='https://drive.google.com/file/d/1uzZ6_40O69H-lSsXhqGnmAvwGSOo2NK5/view?usp=sharing'></a> </h5>
+<h5> Link do POSTMAN: <a href='https://drive.google.com/file/d/1uzZ6_40O69H-lSsXhqGnmAvwGSOo2NK5/view?usp=sharing'>Clique aqui para baixar</a> </h5>
 
 <h5> Espero ter cumprido os requisitos minimos, perdão por estár entregando em cima da hora</h5>
